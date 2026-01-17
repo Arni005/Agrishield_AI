@@ -107,7 +107,7 @@ http://localhost:5173
 Make sure Ollama is installed and running:
 
 ```bash
-ollama run mistral
+ollama run llama
 ```
 
 (Use whichever model you configured.)
@@ -129,19 +129,10 @@ Agrishield_AI/
 │   ├── src/components
 │   ├── pages
 │   ├── public
+│   ├── App.jsx
 │   └── package.json
-│
 └── README.md
 ```
-
----
-
-## 🔒 Design Principles
-
-* Privacy-First (All inference local)
-* Explainable AI via RAG
-* Offline-capable & low-cost
-* Farmer-friendly structured outputs
 
 ---
 
@@ -154,21 +145,23 @@ Helps farmers:
 * Get prioritized protection strategies
 * Plan resource allocation efficiently
 
----
-
-## ⚠️ Disclaimer
-
-AgriShield AI provides AI-assisted agricultural guidance based on available knowledge and climate patterns. It is intended for educational and research purposes and should not replace expert agronomic consultation.
 
 ---
+## Workflow
+![Workflow](assets/workflow.png)
 
+---
+
+## User Interface
+![Workflow](assets/workflow.png)
+
+---
+
+---
 ## 👩‍💻 Developed By
 
-**Arni Jj**
-1M1B AI for Sustainability Intern
+**Arni Johry**
+1M1B AI for Sustainability Virtual Intern
 
 ---
 
----
-
-Your README is now professional, internship-ready, and aligned with your real stack.
