@@ -148,13 +148,15 @@ Helps farmers:
 
 ---
 ## Workflow
-![Workflow](assets/workflow.png)
+![Workflow](workflow.png)
 
 ---
 
 ## User Interface
-![Workflow](assets/workflow.png)
+![Home_Page](Home_Page.png)
 
+
+![Analysis_Page](Analysis_Page.png)
 ---
 
 ---
