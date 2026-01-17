@@ -1,0 +1,34 @@
+Rice:
+High water requirement
+Rainfall: High
+Temperature: 20–35°C
+Sensitive to drought
+Moderately tolerant to floods
+
+Wheat:
+Medium water requirement
+Rainfall: Low to Medium
+Temperature: 10–25°C
+Sensitive to heat
+Sensitive to excess moisture
+
+Maize:
+Medium water requirement
+Rainfall: Medium
+Temperature: 18–30°C
+Moderately drought tolerant
+Sensitive to waterlogging
+
+Millets:
+Low water requirement
+Rainfall: Low
+Temperature: 20–35°C
+Highly drought resistant
+Good for dry regions
+
+Pulses:
+Low to medium water requirement
+Rainfall: Low to Medium
+Temperature: 18–30°C
+Sensitive to floods
+Good for soil health
