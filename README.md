@@ -153,7 +153,7 @@ Helps farmers:
 ---
 
 ## User Interface
-![Home_Page](Home_Page.png)
+![Home_page](Home_page.png)
 
 
 ![Analysis_Page](Analysis_Page.png)
